@@ -1,6 +1,6 @@
 # Inflation-forecast
 
-LINC_GDP- Loubor income as percentage of GDP,
+LINC_GDP- Labor income as percentage of GDP,
 dr-discount rate,
 CU- capacity utilization, 
 OIL-Brent crude,
